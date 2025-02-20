@@ -25,11 +25,12 @@ This project involves developing an autonomous car in Unity that navigates a tra
 ### **Installation & Running the Project**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/autonomous-car-navigation.git
+   git clone https://github.com/umar77farooq/autonomous-car-navigation.git
    cd autonomous-car-navigation
    ```
-2. **Open the Provided Unity Project**
-   - Download and extract the provided `cw2.zip` file.
+2. **Download and Open the Unity Project**
+   - Download the project file from Google Drive: 📂 **[Download cw2.zip](https://drive.google.com/file/d/1xsVvLMyfWET66oW6qT5ysClHQa90daeD/view?usp=drive_link)**
+   - Extract the `.zip` file.
    - Open Unity Hub and select **Open Project**.
    - Navigate to the extracted folder and open the project in Unity.
 3. **Copy and Replace the Script**
@@ -44,4 +45,4 @@ A screen recording of the autonomous car completing the track has been uploaded 
 
 ---
 
-This project demonstrates the effective use of AI techniques in autonomous vehicle navigation within a simulated environment.
+🚀 This project demonstrates the effective use of AI techniques in autonomous vehicle navigation within a simulated environment.
